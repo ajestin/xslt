@@ -1,4 +1,5 @@
 # Repository XSLT
 
-Dépot de code xslt collaboratif
+Dépot de code xslt collaboratif pour le SIGB koha
+Crédits : UBO
 
